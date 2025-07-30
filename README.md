@@ -11,6 +11,7 @@ You will be assigned into groups of four to five people in this project. Please 
 9. Reviewers are assigned to review a set of papers submitted to a conference. Each review consists of a review id, user id of the reviewer, paper id, review score, comments, review upload time. 
 10. A user can register for a conference. The system stores registration id, conference id, user id, conference id, registration fee, and payment date and payment status (paid or not). 
 11. The system stores a message table which contains message ID, user ID, message time, and message body. 
+
 Features: There are five individual features and five group features. Individual features will be graded individually (your group member's individual feature will have no impact on your grade), but group features will be graded group-wise. So each group should work together to make sure the group features are done correctly. 
 Each member needs to implement one individual feature. So if your group has X members your group will implement any X individual features. Each group also needs to implement any X group features. For example, if your group has five members, your group will do all 10 features. If your group has four members, your group will implement four individual features plus four group features. 
 
